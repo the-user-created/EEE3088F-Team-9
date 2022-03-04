@@ -1,0 +1,26 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 00318b70-98db-4150-aae9-0fe9db9b4f56)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Battery, Protection, Reverse Protection, UVLO, Regulation"
+    (at 121.92 89.535 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ad4d3bd1-7295-4eea-a5c5-a926366f2281)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+    (path "/da25bf79-0abb-4fac-a221-ca5c574dfc29"
+      (reference "Y?") (unit 1) (value "Resonator") (footprint "")
+    )
+  )
+)

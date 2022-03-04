@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LT3750EMS#PBF")(type "Legacy")(uri "/home/jwyngaard/eee3088f_2022_templating/PCB/Library/kicad6-libraries/symbols/LT3750EMS#PBF.lib")(options "")(descr ""))
+  (lib (name "INA202AID")(type "Legacy")(uri "/home/jwyngaard/eee3088f_2022_templating/PCB/Library/kicad6-libraries/symbols/INA202AID.lib")(options "")(descr ""))
+)

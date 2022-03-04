@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 0910cb2b-5973-4d8a-ae14-7a1f346a65e3)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Memory Element and which pins you wish to use.\ndebugging capabilities to test it\n"
+    (at 129.54 89.535 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 94c88e58-2105-497d-b543-283f49aea620)
+  )
+)

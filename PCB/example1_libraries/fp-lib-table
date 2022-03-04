@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "INA202AID")(type "KiCad")(uri "/home/jwyngaard/eee3088f_2022_templating/PCB/Library/kicad6-libraries/footprints/INA202AID.pretty")(options "")(descr ""))
+  (lib (name "LT3750EMS")(type "KiCad")(uri "/home/jwyngaard/eee3088f_2022_templating/PCB/Library/kicad6-libraries/footprints/LT3750EMS.pretty")(options "")(descr ""))
+)

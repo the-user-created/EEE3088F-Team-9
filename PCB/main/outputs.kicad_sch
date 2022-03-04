@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid ac94c12d-1e2f-4700-9b45-563c04d5170a)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Not sure if you want this here:\n\nGP LEDS\nPushButton or 2 for testing\nUSB Connector\nTesting Connector\nJumpers for debugging and inserting signals"
+    (at 126.365 86.36 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ed0570b7-a7a2-464c-be6e-20e69ad86ee9)
+  )
+)

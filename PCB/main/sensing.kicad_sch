@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid ae78189d-79c7-41a0-b77c-3bb766898352)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Sensors and supporting analog components, decoupling, pin assignments"
+    (at 115.57 86.36 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 84913913-2b70-4e7e-8a04-f59dc46fbc82)
+  )
+)
