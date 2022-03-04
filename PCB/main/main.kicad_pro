@@ -424,12 +424,12 @@
       "Sensing"
     ],
     [
-      "6faa355f-9d08-4dfa-b3e6-58b461b2063e",
-      "Outputs"
-    ],
-    [
       "59b42903-2dc7-4011-ab5b-d7b81bd233c3",
       "microcontroller_interfacing"
+    ],
+    [
+      "6faa355f-9d08-4dfa-b3e6-58b461b2063e",
+      "Outputs"
     ]
   ],
   "text_variables": {}

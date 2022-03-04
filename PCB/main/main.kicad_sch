@@ -1910,8 +1910,8 @@
     (path "/" (page "1"))
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa" (page "2"))
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9" (page "3"))
-    (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e" (page "5"))
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3" (page "5"))
+    (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e" (page "5"))
   )
 
   (symbol_instances
@@ -1963,6 +1963,45 @@
     (path "/92adc2a7-705f-4e7b-90a7-1c91d9f5977d"
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/3c957af0-3087-4840-b32b-40f478a94552"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/4f39c5a5-9959-4e3e-88b1-dd41537e5fed"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/60cd7c89-bbd3-424d-b511-c3feca075b11"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/7d571112-2957-4d5e-a1ea-1baa93d0698b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c2cd8ac4-3669-4d0c-9198-6404e56bb17a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/042d935b-9602-4a1f-8ca9-0b90ffcacc54"
+      (reference "BT?") (unit 1) (value "Battery") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f90e69bf-b6e8-4e9b-a19e-ae8c059f2ea0"
+      (reference "BT?") (unit 1) (value "Battery") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/3cc247f6-81f9-4ed4-ae27-40c7fba2f456"
+      (reference "C?") (unit 1) (value "C") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/737e9f67-33d5-420a-8f8f-42955190a9f6"
+      (reference "C?") (unit 1) (value "C") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/29fd6413-c735-4b2b-8b18-ff89f0245641"
+      (reference "D?") (unit 1) (value "D") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/2c1a2615-4f8b-4f45-b973-13014b276c64"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/38879eac-bb16-43d6-a220-57bc5c7c3ac7"
+      (reference "D?") (unit 1) (value "D") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/55867342-9142-4ba3-9bd7-5b007ce9d537"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
+    )
     (path "/ae3c331f-8808-430e-931c-7d9b2cc37f5b"
       (reference "J1") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
     )
@@ -1974,6 +2013,27 @@
     )
     (path "/39549a53-fe72-4509-a12d-de170bbf0433"
       (reference "J4") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/42ab6c5d-d7f3-4d96-9799-8984e039533c"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/bec01990-7173-48e4-8a14-309def24fbfa"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c0fef99d-fba7-480a-999e-9e457a3df514"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/d1688756-8c7f-4488-a332-a74ffbd8454b"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/d3470d0c-0278-425f-a17e-bca42a22fc93"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/da502331-d1d1-4d79-b54e-a1160d5e1100"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/0e943f16-1e71-4694-b072-e169f2da7d03"
+      (reference "U?") (unit 1) (value "TP4056") (footprint "")
     )
   )
 )
