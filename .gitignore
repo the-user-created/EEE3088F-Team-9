@@ -1,12 +1,8 @@
 ### Mac OSX
 # General
-/.DS_Store
+.DS_Store
 .AppleDouble
 .LSOverride
-/Docs/.DS_Store
-/Other/.DS_Store
-/PCB/.DS_Store
-/PCB/main/.DS_Store
 
 # Icon must end with two \r
 Icon
