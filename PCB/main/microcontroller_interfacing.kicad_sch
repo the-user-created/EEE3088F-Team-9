@@ -5,11 +5,12 @@
   (paper "A4")
 
   (title_block
-    (title "YNGDAV005")
+    (title "Microcontroller Interfacing Subsystem")
     (date "2022-03-11")
     (rev "V0.2")
-    (company "EEE3088F Group 9")
-    (comment 1 "@Authors David Young")
+    (company "University of Cape Town")
+    (comment 1 "@Authors David Young (YNGDAV005)")
+    (comment 2 "@Project EEE3088F-Team-9")
   )
 
   (lib_symbols

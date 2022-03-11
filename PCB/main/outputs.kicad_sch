@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (company "University of Cape Town")
+    (comment 2 "@Project EEE3088F-Team-9")
+  )
+
   (lib_symbols
   )
 
