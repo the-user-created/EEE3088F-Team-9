@@ -891,6 +891,11 @@
     (uuid fac28f13-9a56-4b8e-8450-1c757bba3dbc)
   )
 
+  (text "SDA and SCL connect to the DISCO\nboard for the clock signal\nand data input/output."
+    (at 62.23 54.61 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 35ed671f-3997-485f-8ff6-611dc6c04031)
+  )
   (text "FTDI\n" (at 101.6 16.51 0)
     (effects (font (size 2.7 2.7) (thickness 0.254) bold) (justify left bottom))
     (uuid 6beb5007-4017-4061-8d74-33cd99b79831)
@@ -899,19 +904,39 @@
     (effects (font (size 2.7 2.7) (thickness 0.254) bold) (justify left bottom))
     (uuid 792ed863-eb88-47f9-adbe-1241bd84629d)
   )
+  (text "TX and RX connect to the DISCO\nboard for handling of USB data."
+    (at 156.21 22.86 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8e3171b9-17ec-4cd9-b7db-b641ea0ec6b6)
+  )
   (text "Memory Element and which pins you wish to use.\ndebugging capabilities to test it\n"
     (at 127 132.08 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 94c88e58-2105-497d-b543-283f49aea620)
   )
+  (text "A high value on BEGIN indicates\nto the FTDI that there is a active\nconnection on the USB port.\n"
+    (at 62.23 86.36 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a76bd789-2d5c-49c4-bc14-e14ed490fe39)
+  )
+  (text "D+ and D- are fed to the\nFTDI device for translation \nfrom USB to UART"
+    (at 74.93 105.41 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b6761ed4-1957-439f-8cd4-b8ca412d6ecb)
+  )
   (text "USB CONNECTOR\n" (at 12.7 83.82 0)
     (effects (font (size 2.7 2.7) (thickness 0.254) bold) (justify left bottom))
     (uuid bff506d4-45c5-45cd-8102-c3e044c931a8)
   )
-  (text "Maybe add a button here so that \nwe can press it to reset the FTDI device?\n"
-    (at 161.29 63.5 0)
+  (text "FTDI_RST can be used to reset the FTDI device\nwhen pulled low for more than 15 us "
+    (at 161.29 64.77 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f73cde7c-35ff-4438-8f31-32cf5e452543)
+    (uuid c40967ee-e174-4d26-870f-c7c3ac5b18bb)
+  )
+  (text "Planned To-Do:\nAdd LED(s) to show a USB connection\nAdd Button for resetting the FTDI\nAdd LED(s) to show data transmission to/from both FTDI and MEM "
+    (at 104.14 88.9 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f20f43f4-28d6-44a7-875c-6a77c4633e89)
   )
 
   (label "BEGIN" (at 55.88 87.63 0)
