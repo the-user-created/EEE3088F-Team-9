@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT24C256C-SSHL-T
+D EEPROM 256K (32K X 8), 2-WI 1.8V
+K
+F http://www.atmel.com/Images/Atmel-8568-SEEPROM-AT24C256C-Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CL10A105KB8NNNC
+D CAP, 1uF, 50V, +/-10%, X5R, 0603
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2411562.pdf
+$ENDCMP
+#
+#End Doc Library

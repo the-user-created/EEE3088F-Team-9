@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0805W8F4701T5E
+D Chip Resistor - Surface Mount 4.7KOhms +/-1% 1/8W 0805 RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0805W8F4701T5E_C17673.pdf
+$ENDCMP
+#
+#End Doc Library

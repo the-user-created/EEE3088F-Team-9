@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM358DR2G
+D LM358DR2G, Dual Operational Amplifier 5 to 28V, 8-Pin SOIC
+K
+F http://www.onsemi.com/pub/Collateral/LM358-D.PDF
+$ENDCMP
+#
+#End Doc Library

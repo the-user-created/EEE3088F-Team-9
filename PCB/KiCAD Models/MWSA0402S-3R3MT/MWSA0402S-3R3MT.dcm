@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MWSA0402S-3R3MT
+D Wire Wound Molded SMD Power Inductors.
+K
+F https://datasheet.lcsc.com/szlcsc/Sunlord-MWSA1004-3R3MT_C143963.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ap2007
+D Yes Boost type 1 Boost 5V 2A 3.3V~6V 1MHz SOP-8EP_150mil DC-DC Converters
+K
+F https://datasheet.lcsc.com/lcsc/1808311811_Wuxi-Chipown-Micro-electronics-AP2007SPER_C130338.pdf
+$ENDCMP
+#
+#End Doc Library

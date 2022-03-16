@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LPS22HBTR
+D 260-1260hPa Absolute Barometer HLGA10 LPS22HBTR, Absolute Pressure Sensor, 10-Pin HLGA
+K
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/bf/c1/4f/23/61/17/44/8a/DM00140895.pdf/files/DM00140895.pdf/jcr:content/translations/en.DM00140895.pdf
+$ENDCMP
+#
+#End Doc Library

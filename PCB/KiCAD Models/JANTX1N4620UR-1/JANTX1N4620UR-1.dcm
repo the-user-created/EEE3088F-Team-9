@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JANTX1N4620UR-1
+D Diode Zener Single 3.3V 5% 500mW 2-Pin DO-213AA Bag
+K
+F https://www.microsemi.com/document-portal/doc_download/11007-sd10a-datasheet
+$ENDCMP
+#
+#End Doc Library
