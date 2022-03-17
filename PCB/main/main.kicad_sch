@@ -2342,6 +2342,9 @@
     (path "/7b96386e-1fe1-470d-8573-eb9522ef09b2"
       (reference "#PWR017") (unit 1) (value "GND") (footprint "")
     )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f605e6e2-f31f-4bb3-a4e5-7b04e128f1c1"
+      (reference "BT1") (unit 1) (value "Battery") (footprint "")
+    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/737e9f67-33d5-420a-8f8f-42955190a9f6"
       (reference "C1") (unit 1) (value "10u") (footprint "")
     )
@@ -2387,7 +2390,7 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/55867342-9142-4ba3-9bd7-5b007ce9d537"
       (reference "D2") (unit 1) (value "RED") (footprint "")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/80d9f83f-4369-4f52-b959-8c43202b5f31"
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/a1980470-c6d3-47b4-affb-fe9502f27b90"
       (reference "D3") (unit 1) (value "B5819W") (footprint "")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/ac53e438-b230-45ae-bced-4c65a6142f2a"
