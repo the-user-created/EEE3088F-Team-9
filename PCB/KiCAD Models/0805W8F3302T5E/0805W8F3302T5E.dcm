@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0805W8F3302T5E
+D Chip Resistor - Surface Mount 33KOhms +/-1% 1/8W 0805 RoHS
+K
+F https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3302T5E_C17633.pdf
+$ENDCMP
+#
+#End Doc Library

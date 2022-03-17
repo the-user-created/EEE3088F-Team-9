@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP B5819W
-D 40V 1A 600mV @ 1A SOD-123 Schottky Barrier Diodes (SBD)
-K
-F https://datasheet.lcsc.com/szlcsc/Changjiang-Electronics-Tech-CJ-B5819W_C8598.pdf
-$ENDCMP
-#
-#End Doc Library
