@@ -7,7 +7,7 @@
   (title_block
     (title "Microcontroller Interfacing Subsystem")
     (date "2022-03-11")
-    (rev "V0.2")
+    (rev "V0.3")
     (company "University of Cape Town")
     (comment 1 "@Authors David Young (YNGDAV005)")
     (comment 2 "@Project EEE3088F-Team-9")
@@ -759,6 +759,7 @@
     )
   )
 
+
   (junction (at 128.27 56.515) (diameter 0) (color 0 0 0 0)
     (uuid 005707f1-4f21-41ee-b8b7-7793acd941fa)
   )
@@ -990,6 +991,10 @@
     (uuid adcb7552-46e9-4a27-8856-75a9b364b963)
   )
 
+  (wire (pts (xy 52.07 33.02) (xy 52.07 36.83))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid b5152021-3f8d-43a5-a54e-1ff0d530d3a0)
+  )
   (wire (pts (xy 60.325 119.38) (xy 60.325 118.11))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid bbfa10e6-7a03-4de4-931d-d8de35be2327)
@@ -1027,8 +1032,12 @@
     (uuid fac28f13-9a56-4b8e-8450-1c757bba3dbc)
   )
 
+  (text "1V7 Input\n" (at 53.34 31.75 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 20cb1143-7611-4330-b164-25e6cb1533ca)
+  )
   (text "SDA and SCL connect to the DISCO\nboard for the clock signal\nand data input/output."
-    (at 62.23 54.61 0)
+    (at 66.04 40.64 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 35ed671f-3997-485f-8ff6-611dc6c04031)
   )
@@ -1036,9 +1045,19 @@
     (effects (font (size 2.7 2.7) (thickness 0.254) bold) (justify left bottom))
     (uuid 6beb5007-4017-4061-8d74-33cd99b79831)
   )
+  (text "Pull A0, A1, and A2\nall down to GND because\nwe are not using \nmultiple MEM devices."
+    (at 20.32 40.64 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 722b6a0e-d781-4e0a-bebd-158cbc7f059f)
+  )
   (text "MEMORY ELEMENT" (at 12.7 16.51 0)
     (effects (font (size 2.7 2.7) (thickness 0.254) bold) (justify left bottom))
     (uuid 792ed863-eb88-47f9-adbe-1241bd84629d)
+  )
+  (text "The WP (Write-Protect) pin is\nconnected to GND to allow \nnormal write operations"
+    (at 63.5 54.61 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8d53b0ea-ec4d-4a6f-ac32-7bf0b02c2ca9)
   )
   (text "TX and RX connect to the DISCO\nboard for handling of USB data."
     (at 167.64 22.225 0)
@@ -1069,10 +1088,9 @@
     (effects (font (size 2.7 2.7) (thickness 0.254) bold) (justify left bottom))
     (uuid bff506d4-45c5-45cd-8102-c3e044c931a8)
   )
-  (text "Planned To-Do:\nAdd LED(s) to show a USB connection\nAdd LED(s) to show data transmission to/from both FTDI and MEM "
-    (at 104.14 88.9 0)
+  (text "3V3 Input\n" (at 151.13 76.2 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f20f43f4-28d6-44a7-875c-6a77c4633e89)
+    (uuid ea332be6-8c61-4270-a7c1-7123e909e17e)
   )
 
   (label "BEGIN" (at 45.085 97.79 0)
@@ -1144,7 +1162,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid b36de182-e0af-45f9-a392-c5847713fe37)
   )
-  (hierarchical_label "MEM_VCC" (shape input) (at 52.07 36.83 90)
+  (hierarchical_label "MEM_VCC" (shape input) (at 52.07 33.02 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid cccdef33-fd57-4ac8-a081-761111460d1d)
   )
@@ -1289,10 +1307,10 @@
   (symbol (lib_id "Device:C_Small") (at 125.73 42.545 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3f88aa77-e357-486c-b4bf-46db8959981a)
-    (property "Reference" "C12" (id 0) (at 120.65 41.91 0)
+    (property "Reference" "C12" (id 0) (at 119.38 41.91 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "0.1uF" (id 1) (at 125.476 44.577 0)
+    (property "Value" "0.1uF" (id 1) (at 124.46 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "EEE3088F_Footprints:CAPC1005X55N" (id 2) (at 125.73 42.545 0)
