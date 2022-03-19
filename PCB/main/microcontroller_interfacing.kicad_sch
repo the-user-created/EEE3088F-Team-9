@@ -666,7 +666,6 @@
     )
   )
 
-
   (junction (at 128.27 56.515) (diameter 0) (color 0 0 0 0)
     (uuid 005707f1-4f21-41ee-b8b7-7793acd941fa)
   )
@@ -1093,6 +1092,10 @@
   (hierarchical_label "FTDI_VDD" (shape input) (at 151.13 73.025 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 4b0d2912-0dac-4004-ba6a-fe2dda862f66)
+  )
+  (hierarchical_label "5V from USB" (shape input) (at 52.705 101.6 90)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 581c9f4b-5137-4665-a285-d9db2ac33c9a)
   )
   (hierarchical_label "GND" (shape input) (at 128.27 57.785 270)
     (effects (font (size 1.27 1.27)) (justify right))
