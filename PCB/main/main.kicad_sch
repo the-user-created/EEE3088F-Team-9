@@ -2431,9 +2431,6 @@
     (path "/39549a53-fe72-4509-a12d-de170bbf0433"
       (reference "J4") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
     )
-    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/73ede880-e7f5-4d7b-b9cb-33e82f1b044f"
-      (reference "J5") (unit 1) (value "USB_B_Micro") (footprint "EEE3088F_Footprints:MICROXNJ")
-    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c91824e2-66c0-4016-8cc3-da2e82403953"
       (reference "L1") (unit 1) (value "MWSA0402S-3R3MT") (footprint "EEE3088F_Footprints:INDPM4442X200N")
     )
@@ -2487,6 +2484,9 @@
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/1f77e19d-e9a2-47dc-9090-a7adfe4813b9"
       (reference "U3") (unit 1) (value "CAT24C256") (footprint "EEE3088F_Footprints:SOIC127P600X175-8N")
+    )
+    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/e79214a2-52a4-44d6-8e2b-47ef01e1d5a4"
+      (reference "U4") (unit 1) (value "MICROXNJ") (footprint "EEE3088F_Footprints:MICRO-USB-SMD_MICROXNJ")
     )
   )
 )
