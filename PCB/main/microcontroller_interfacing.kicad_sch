@@ -666,6 +666,7 @@
     )
   )
 
+
   (junction (at 128.27 56.515) (diameter 0) (color 0 0 0 0)
     (uuid 005707f1-4f21-41ee-b8b7-7793acd941fa)
   )
@@ -752,7 +753,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 199e2263-27e5-4fe8-8310-0b02495e38c2)
   )
-  (wire (pts (xy 45.085 97.79) (xy 45.085 101.6))
+  (wire (pts (xy 45.085 93.345) (xy 45.085 101.6))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 1cf9c436-727c-478e-b69d-b050b44e0189)
   )
@@ -761,6 +762,10 @@
     (uuid 1e5f139c-0cf1-4625-8795-c94d62a6ac80)
   )
 
+  (wire (pts (xy 52.705 100.33) (xy 52.705 101.6))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 1fad7c0e-1222-4e2c-b60d-86033f546938)
+  )
   (wire (pts (xy 125.73 45.085) (xy 125.73 46.355))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 211e4e57-d332-4307-966a-40923d22a9d2)
@@ -1048,7 +1053,7 @@
     (uuid ea332be6-8c61-4270-a7c1-7123e909e17e)
   )
 
-  (label "BEGIN" (at 45.085 97.79 0)
+  (label "BEGIN" (at 45.085 93.345 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 10074144-499f-432b-a3af-2464146366f5)
   )
@@ -1093,7 +1098,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 4b0d2912-0dac-4004-ba6a-fe2dda862f66)
   )
-  (hierarchical_label "5V from USB" (shape input) (at 52.705 101.6 90)
+  (hierarchical_label "USB_5V" (shape input) (at 52.705 100.33 90)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 581c9f4b-5137-4665-a285-d9db2ac33c9a)
   )
