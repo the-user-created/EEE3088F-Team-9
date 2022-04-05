@@ -915,10 +915,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid a338cb11-0fe0-4582-9a39-21f321ce22b5)
   )
-  (wire (pts (xy 45.72 54.61) (xy 53.34 54.61))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid ad541e3c-a8cb-4b52-b200-36894616163d)
-  )
   (wire (pts (xy 233.045 105.41) (xy 229.235 105.41))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ad9624f8-cf25-4b9a-95b1-2c64fccd57f6)
@@ -1506,10 +1502,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e6eb6955-2cd6-4a24-9d4c-bf3c42dcce77)
   )
-  (label "1V7" (at 160.02 62.23 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid ec80c933-1608-410c-9d35-e8544a4a6630)
-  )
   (label "PC2" (at 211.455 54.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid eca73914-6f4b-487c-b8f6-6bedca0fa3fb)
@@ -1517,6 +1509,10 @@
   (label "PB3" (at 248.285 49.53 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ee86ad28-2e8a-4b4f-a90f-b244d52f0462)
+  )
+  (label "3V3" (at 160.02 62.23 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f11bb760-dd6c-43c6-9f68-d2584c0680b7)
   )
   (label "PA8" (at 248.285 85.09 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1533,10 +1529,6 @@
   (label "NRST" (at 211.455 46.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fa837821-0cb5-4c2d-b2ac-2376f32f5c33)
-  )
-  (label "1V7" (at 45.72 54.61 180)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid fc6c235d-7ac2-4862-b34a-54e53c93abbc)
   )
   (label "PC3" (at 229.235 57.15 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -2261,10 +2253,6 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 0dd1e832-b49b-43a1-aa5f-da3108d47109)
     )
-    (pin "1V7" input (at 53.34 54.61 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid 012ab313-f924-4901-b482-0c18af6be7bd)
-    )
     (pin "GND" input (at 53.34 57.15 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid fbcd23bf-7dac-418f-af96-610ae8690090)
@@ -2470,15 +2458,6 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c0fef99d-fba7-480a-999e-9e457a3df514"
       (reference "R7") (unit 1) (value "1K2") (footprint "EEE3088F_Footprints:RESC1608X55N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/ddcc6717-e01a-4bd2-be17-1cca69bb6b0c"
-      (reference "R8") (unit 1) (value "1K8") (footprint "EEE3088F_Footprints:RESC1608X55N")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/e6d1bcb0-8f0e-405d-a7c1-88d99b710222"
-      (reference "R9") (unit 1) (value "1K8") (footprint "EEE3088F_Footprints:RESC1608X55N")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/5a5a09d7-5694-470c-a9d6-f9cfe31a44b2"
-      (reference "R10") (unit 1) (value "120R") (footprint "EEE3088F_Footprints:R0603")
-    )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/47c66d76-097b-43cf-8a5c-3288ec09b32f"
       (reference "R11") (unit 1) (value "1K2") (footprint "EEE3088F_Footprints:RESC1608X55N")
     )
@@ -2487,6 +2466,12 @@
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/fb066784-5308-40e8-ad30-480833d7355a"
       (reference "R13") (unit 1) (value "1K2") (footprint "EEE3088F_Footprints:RESC1608X55N")
+    )
+    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/720239d4-cfc8-47b4-a18a-41a7b4226027"
+      (reference "R14") (unit 1) (value "10k") (footprint "EEE3088F_Footprints:R0603")
+    )
+    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/878c26d9-541e-4419-bfd9-495c7a099ac8"
+      (reference "R15") (unit 1) (value "10k") (footprint "EEE3088F_Footprints:R0603")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/7228bdfc-95f0-4c15-b9fb-cf288b667432"
       (reference "U1") (unit 1) (value "LM61BIZ/NOPD_TempSensor(TO-92)") (footprint "EEE3088F_Footprints:TO-92-3_L4.9-W3.7-P1.27-L")
