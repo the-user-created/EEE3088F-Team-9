@@ -2751,34 +2751,34 @@
       (reference "BT1") (unit 1) (value "Battery") (footprint "EEE3088F_Footprints:18650_Holder_THT")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f1af7f9d-465c-4bab-8d84-f1242d41dc1c"
-      (reference "C1") (unit 1) (value "22u") (footprint "EEE3088F_Footprints:CAPC3216X180N")
+      (reference "C1") (unit 1) (value "22uF") (footprint "EEE3088F_Footprints:CAPC3216X180N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/737e9f67-33d5-420a-8f8f-42955190a9f6"
-      (reference "C2") (unit 1) (value "10u") (footprint "EEE3088F_Footprints:CAPC3216X180N")
+      (reference "C2") (unit 1) (value "10uF") (footprint "EEE3088F_Footprints:CAPC3216X180N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/d8488619-1d6f-4aa6-a373-53331078875d"
-      (reference "C3") (unit 1) (value "22u") (footprint "EEE3088F_Footprints:CAPC3216X180N")
+      (reference "C3") (unit 1) (value "22uF") (footprint "EEE3088F_Footprints:CAPC3216X180N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/13495e63-5890-4581-a21d-42f8b0c39f71"
-      (reference "C4") (unit 1) (value "10u") (footprint "EEE3088F_Footprints:CAPC3216X180N")
+      (reference "C4") (unit 1) (value "10uF") (footprint "EEE3088F_Footprints:CAPC3216X180N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/66e5de00-712b-4dae-9e36-2b9b57c4622d"
-      (reference "C5") (unit 1) (value "0.47u") (footprint "EEE3088F_Footprints:CAPC1005X55N")
+      (reference "C5") (unit 1) (value "0.47uF") (footprint "EEE3088F_Footprints:CAPC1005X55N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/92f2c3d1-b1b8-4d14-b6e5-c15420b229bc"
-      (reference "C6") (unit 1) (value "1u") (footprint "EEE3088F_Footprints:CAPC1608X90N")
+      (reference "C6") (unit 1) (value "1.0uF") (footprint "EEE3088F_Footprints:CAPC1608X90N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/e18b31d2-c0f0-48c8-b674-1ebb8997268d"
-      (reference "C7") (unit 1) (value "10u") (footprint "EEE3088F_Footprints:CAPC3216X180N")
+      (reference "C7") (unit 1) (value "10uF") (footprint "EEE3088F_Footprints:CAPC3216X180N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/8db337df-9931-4e63-9052-97765a017f58"
-      (reference "C8") (unit 1) (value "22u") (footprint "EEE3088F_Footprints:CAPC3216X180N")
+      (reference "C8") (unit 1) (value "22uF") (footprint "EEE3088F_Footprints:CAPC3216X180N")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/932c1779-e017-4fca-811c-2b94e90e74a6"
-      (reference "C9") (unit 1) (value "1uF") (footprint "EEE3088F_Footprints:RESC1608X55N")
+      (reference "C9") (unit 1) (value "1.0uF") (footprint "EEE3088F_Footprints:RESC1608X55N")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/9a84afa9-8673-444c-a0e3-6b0658767bd9"
-      (reference "C10") (unit 1) (value "100nF") (footprint "EEE3088F_Footprints:CAPC1005X55N")
+      (reference "C10") (unit 1) (value "0.1uF") (footprint "EEE3088F_Footprints:CAPC1005X55N")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/7fd116b6-5f0d-45fd-be9e-30f63195dda8"
       (reference "C11") (unit 1) (value "1.0uF") (footprint "EEE3088F_Footprints:CAPC1608X90N")
@@ -2843,8 +2843,8 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c91824e2-66c0-4016-8cc3-da2e82403953"
       (reference "L1") (unit 1) (value "MWSA0402S-3R3MT") (footprint "EEE3088F_Footprints:INDPM4442X200N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/4f57eda4-f935-4b98-b705-9b8d348ce7c5"
-      (reference "Q1") (unit 1) (value "AO3401A") (footprint "EEE3088F_Footprints:SOT95P280X125-3N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/71933f1d-0822-4266-b775-9baf17ec87f2"
+      (reference "Q1") (unit 1) (value "LBSS84LT1G") (footprint "EEE3088F_Footprints:SOT96P237X111-3N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/63098065-a7d2-4da0-baf8-57c60c183967"
       (reference "R1") (unit 1) (value "1K2") (footprint "EEE3088F_Footprints:RESC1608X55N")
@@ -2862,7 +2862,7 @@
       (reference "R5") (unit 1) (value "100K") (footprint "EEE3088F_Footprints:RESC3116X65N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/9aa931a2-b224-4f54-9ca9-032c64f7a3e7"
-      (reference "R6") (unit 1) (value "33K") (footprint "EEE3088F_Footprints:RESC2013X65N")
+      (reference "R6") (unit 1) (value "33K") (footprint "EEE3088F_Footprints:R0603")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/c0fef99d-fba7-480a-999e-9e457a3df514"
       (reference "R7") (unit 1) (value "1K2") (footprint "EEE3088F_Footprints:RESC1608X55N")
@@ -2871,7 +2871,7 @@
       (reference "R11") (unit 1) (value "1K2") (footprint "EEE3088F_Footprints:RESC1608X55N")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/1f240f4a-b76d-402a-a9bf-5a6f567656c7"
-      (reference "R12") (unit 1) (value "4.7k") (footprint "EEE3088F_Footprints:RESC2013X65N")
+      (reference "R12") (unit 1) (value "4k7") (footprint "EEE3088F_Footprints:RESC1608X55N")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/fb066784-5308-40e8-ad30-480833d7355a"
       (reference "R13") (unit 1) (value "1K2") (footprint "EEE3088F_Footprints:RESC1608X55N")

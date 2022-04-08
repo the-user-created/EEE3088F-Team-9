@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LBSS84LT1G
+D P-MOSFET
+K
+F https://datasheet.lcsc.com/szlcsc/Leshan-Radio-LBSS84LT1G_C8492.pdf
+$ENDCMP
+#
+#End Doc Library

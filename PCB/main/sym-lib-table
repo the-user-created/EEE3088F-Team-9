@@ -15,4 +15,6 @@
   (lib (name "TP4056-42-ESOP8")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/TP4056-42-ESOP8/TP4056-42-ESOP8.lib")(options "")(descr ""))
   (lib (name "AAA_3088F")(type "KiCad")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/libraries/AAA_3088F.kicad_sym")(options "")(descr ""))
   (lib (name "MCP6002T-I_SN")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/MCP6002T-I_SN/MCP6002T-I_SN.lib")(options "")(descr ""))
+  (lib (name "LBSS84LT1G")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/LBSS84LT1G/LBSS84LT1G.lib")(options "")(descr ""))
+  (lib (name "0603WAF4701T5E")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/0603WAF4701T5E/0603WAF4701T5E.lib")(options "")(descr ""))
 )
