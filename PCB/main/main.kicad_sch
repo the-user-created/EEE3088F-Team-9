@@ -2338,6 +2338,9 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/b19ea59c-a96b-4bb4-af11-68d4c0547be5"
       (reference "#PWR019") (unit 1) (value "GND") (footprint "")
     )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/9a4ba326-f107-4d72-8be2-e06aef4e7974"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f605e6e2-f31f-4bb3-a4e5-7b04e128f1c1"
       (reference "BT1") (unit 1) (value "Battery") (footprint "EEE3088F_Footprints:18650_Holder_THT")
     )
