@@ -2339,7 +2339,7 @@
       (reference "#PWR019") (unit 1) (value "GND") (footprint "")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/9a4ba326-f107-4d72-8be2-e06aef4e7974"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR020") (unit 1) (value "GND") (footprint "")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f605e6e2-f31f-4bb3-a4e5-7b04e128f1c1"
       (reference "BT1") (unit 1) (value "Battery") (footprint "EEE3088F_Footprints:18650_Holder_THT")
@@ -2407,8 +2407,8 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/447a4a8d-5ed3-4a20-b64e-f475e74cd0dd"
       (reference "D8") (unit 1) (value "GREEN") (footprint "EEE3088F_Footprints:LEDC1608X50N")
     )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/9725987c-8a2d-4660-bed6-3dcab715233f"
-      (reference "IC1") (unit 1) (value "LM358DR2G") (footprint "EEE3088F_Footprints:SOIC127P600X175-8N")
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/faa951fa-468d-425b-aeb3-2b93fdf99cd2"
+      (reference "IC1") (unit 1) (value "MCP6002T-I_SN") (footprint "SOIC127P600X175-8N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/11ebafeb-9694-4067-9b44-a3baafba844a"
       (reference "IC2") (unit 1) (value "ap2007") (footprint "EEE3088F_Footprints:SOIC127P600X175-9N")
@@ -2421,9 +2421,6 @@
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/0d6ac58a-cea9-41a3-9267-c96ff30fbdfc"
       (reference "IC5") (unit 1) (value "CP2102-GMR") (footprint "EEE3088F_Footprints:QFN50P500X500X100-29N-D")
-    )
-    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/faa951fa-468d-425b-aeb3-2b93fdf99cd2"
-      (reference "IC?") (unit 1) (value "MCP6002T-I_SN") (footprint "SOIC127P600X175-8N")
     )
     (path "/ae3c331f-8808-430e-931c-7d9b2cc37f5b"
       (reference "J1") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
