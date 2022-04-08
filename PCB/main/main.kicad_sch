@@ -2408,7 +2408,7 @@
       (reference "D8") (unit 1) (value "GREEN") (footprint "EEE3088F_Footprints:LEDC1608X50N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/faa951fa-468d-425b-aeb3-2b93fdf99cd2"
-      (reference "IC1") (unit 1) (value "MCP6002T-I_SN") (footprint "SOIC127P600X175-8N")
+      (reference "IC1") (unit 1) (value "MCP6002T-I_SN") (footprint "EEE3088F_Footprints:SOIC127P600X175-8N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/11ebafeb-9694-4067-9b44-a3baafba844a"
       (reference "IC2") (unit 1) (value "ap2007") (footprint "EEE3088F_Footprints:SOIC127P600X175-9N")
@@ -2476,11 +2476,11 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/878c26d9-541e-4419-bfd9-495c7a099ac8"
       (reference "R15") (unit 1) (value "10k") (footprint "EEE3088F_Footprints:R0603")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/7228bdfc-95f0-4c15-b9fb-cf288b667432"
-      (reference "U1") (unit 1) (value "LM61BIZ/NOPD_TempSensor(TO-92)") (footprint "EEE3088F_Footprints:TO-92-3_L4.9-W3.7-P1.27-L")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/539c3116-088c-46e2-bd80-02ce22d3faaa"
+      (reference "U1") (unit 1) (value "LM61BIZ/NOPB_TempSensor(TO-92)") (footprint "EEE3088F_Footprints:TO-92-3_L4.9-W3.7-P1.27-L")
     )
-    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/8dd5d845-7e1c-4663-a6ba-2af71acfbef6"
-      (reference "U2") (unit 1) (value "LPS22HBTR_Barometer") (footprint "EEE3088F_Footprints:QFN50P210X200X80-10N")
+    (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/3b4661f8-543a-4861-b1d7-93f86c95c821"
+      (reference "U2") (unit 1) (value " LPS22HBTR_Barometer") (footprint "EEE3088F_Footprints:QFN50P210X200X80-10N")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/1f77e19d-e9a2-47dc-9090-a7adfe4813b9"
       (reference "U3") (unit 1) (value "CAT24C256") (footprint "EEE3088F_Footprints:SOIC127P600X175-8N")

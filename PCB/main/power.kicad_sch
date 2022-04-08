@@ -963,6 +963,7 @@
     )
   )
 
+
   (junction (at 107.95 41.275) (diameter 0) (color 0 0 0 0)
     (uuid 241f0335-6f27-46bc-abd3-61ce457b09a6)
   )
@@ -2231,7 +2232,7 @@
     (property "Value" "MCP6002T-I_SN" (id 1) (at 87.7444 130.9679 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "SOIC127P600X175-8N" (id 2) (at 97.155 132.08 0)
+    (property "Footprint" "EEE3088F_Footprints:SOIC127P600X175-8N" (id 2) (at 97.155 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://componentsearchengine.com/Datasheets/2/MCP6002T-I_SN.pdf" (id 3) (at 97.155 134.62 0)
