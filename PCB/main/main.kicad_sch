@@ -2341,6 +2341,9 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/9a4ba326-f107-4d72-8be2-e06aef4e7974"
       (reference "#PWR020") (unit 1) (value "GND") (footprint "")
     )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/2e420b6f-8050-4bab-be3b-f1d5ee5b51cd"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/f605e6e2-f31f-4bb3-a4e5-7b04e128f1c1"
       (reference "BT1") (unit 1) (value "Battery") (footprint "EEE3088F_Footprints:18650_Holder_THT")
     )
@@ -2475,6 +2478,15 @@
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/878c26d9-541e-4419-bfd9-495c7a099ac8"
       (reference "R15") (unit 1) (value "10k") (footprint "EEE3088F_Footprints:R0603")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/26013d38-7bc4-4919-936f-acffa8edd45b"
+      (reference "TP1") (unit 1) (value "5V Test") (footprint "TestPoint:TestPoint_Pad_2.5x2.5mm")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/d5168efd-4579-4d96-811f-f3e680491b0c"
+      (reference "TP7") (unit 1) (value "USB Det") (footprint "TestPoint:TestPoint_Pad_2.5x2.5mm")
+    )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/3c631595-ce13-42bb-a5c3-032873eb3fed"
+      (reference "TP10") (unit 1) (value "GND TEST") (footprint "TestPoint:TestPoint_Pad_4.0x4.0mm")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/539c3116-088c-46e2-bd80-02ce22d3faaa"
       (reference "U1") (unit 1) (value "LM61BIZ/NOPB_TempSensor(TO-92)") (footprint "EEE3088F_Footprints:TO-92-3_L4.9-W3.7-P1.27-L")
