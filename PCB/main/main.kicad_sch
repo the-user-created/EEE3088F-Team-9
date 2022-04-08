@@ -2422,6 +2422,9 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/0d6ac58a-cea9-41a3-9267-c96ff30fbdfc"
       (reference "IC5") (unit 1) (value "CP2102-GMR") (footprint "EEE3088F_Footprints:QFN50P500X500X100-29N-D")
     )
+    (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/faa951fa-468d-425b-aeb3-2b93fdf99cd2"
+      (reference "IC?") (unit 1) (value "MCP6002T-I_SN") (footprint "SOIC127P600X175-8N")
+    )
     (path "/ae3c331f-8808-430e-931c-7d9b2cc37f5b"
       (reference "J1") (unit 1) (value "Conn_01x33_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical")
     )
@@ -2486,7 +2489,7 @@
       (reference "U3") (unit 1) (value "CAT24C256") (footprint "EEE3088F_Footprints:SOIC127P600X175-8N")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/e79214a2-52a4-44d6-8e2b-47ef01e1d5a4"
-      (reference "U4") (unit 1) (value "MICROXNJ") (footprint "EEE3088F_Footprints(new):MICRO-USB-SMD_MICROXNJ")
+      (reference "U4") (unit 1) (value "MICROXNJ") (footprint "EEE3088F_Footprints:MICRO-USB-SMD_MICROXNJ")
     )
   )
 )

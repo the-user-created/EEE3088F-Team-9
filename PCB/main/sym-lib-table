@@ -3,7 +3,6 @@
   (lib (name "AO3401A")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/AO3401A/AO3401A.lib")(options "")(descr ""))
   (lib (name "ap2007")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/ap2007/ap2007.lib")(options "")(descr ""))
   (lib (name "AT24C256C-SSHL-T")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/AT24C256C-SSHL-T/AT24C256C-SSHL-T.lib")(options "")(descr ""))
-  (lib (name "B5819W")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/B5819W/B5819W.lib")(options "")(descr ""))
   (lib (name "CL05B104KO5NNNC")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/CL05B104KO5NNNC/CL05B104KO5NNNC.lib")(options "")(descr ""))
   (lib (name "CL10A105KB8NNNC")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/CL10A105KB8NNNC/CL10A105KB8NNNC.lib")(options "")(descr ""))
   (lib (name "CP2102-GMR")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/CP2102-GMR/CP2102-GMR.lib")(options "")(descr ""))
@@ -15,4 +14,5 @@
   (lib (name "MWSA0402S-3R3MT")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/MWSA0402S-3R3MT/MWSA0402S-3R3MT.lib")(options "")(descr ""))
   (lib (name "TP4056-42-ESOP8")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/TP4056-42-ESOP8/TP4056-42-ESOP8.lib")(options "")(descr ""))
   (lib (name "AAA_3088F")(type "KiCad")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/libraries/AAA_3088F.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP6002T-I_SN")(type "Legacy")(uri "/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/KiCAD Models/MCP6002T-I_SN/MCP6002T-I_SN.lib")(options "")(descr ""))
 )

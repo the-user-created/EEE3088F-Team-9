@@ -1487,7 +1487,7 @@
     (property "Value" "MICROXNJ" (id 1) (at 43.18 96.52 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "EEE3088F_Footprints(new):MICRO-USB-SMD_MICROXNJ" (id 2) (at 33.655 106.68 0)
+    (property "Footprint" "EEE3088F_Footprints:MICRO-USB-SMD_MICROXNJ" (id 2) (at 33.655 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 33.655 106.68 0)
