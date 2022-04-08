@@ -15,7 +15,7 @@ Comment,Designator,Footprint,LCSC
 "TP4056-42-ESOP8","IC3","EEE3088F_Footprints:SOIC127P600X175-9N","C16581"
 "LM3940IMP-3.3_NOPB","IC4","EEE3088F_Footprints:SOT230P700X180-4N","C140319"
 "CP2102-GMR","IC5","EEE3088F_Footprints:QFN50P500X500X100-29N-D","C6568"
-"Conn_01x33_Female","J1,J4","Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical",""
+"Conn_01x33_Male","J1,J4","Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical",""
 "Conn_01x33_Female","J2,J3","Connector_PinSocket_2.54mm:PinSocket_1x33_P2.54mm_Vertical","C1234 (example)"
 "MWSA0402S-3R3MT","L1","EEE3088F_Footprints:INDPM4442X200N","C408336"
 "LBSS84LT1G","Q1","EEE3088F_Footprints:SOT96P237X111-3N","C8492"

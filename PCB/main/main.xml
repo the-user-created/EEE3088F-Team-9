@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/main/main.kicad_sch</source>
-    <date>Friday, 08 April 2022 at 21:12:25</date>
+    <date>Friday, 08 April 2022 at 22:04:35</date>
     <tool>Eeschema (6.0.2-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -97,7 +97,7 @@
   </design>
   <components>
     <comp ref="J1">
-      <value>Conn_01x33_Female</value>
+      <value>Conn_01x33_Male</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical</footprint>
       <fields>
         <field name="Populate">DNP</field>
@@ -151,7 +151,7 @@
       <tstamps>c7050574-27e1-4a80-9dab-24805663409e</tstamps>
     </comp>
     <comp ref="J4">
-      <value>Conn_01x33_Female</value>
+      <value>Conn_01x33_Male</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical</footprint>
       <fields>
         <field name="Populate">DNP</field>
@@ -286,7 +286,11 @@
     <comp ref="BT1">
       <value>Battery</value>
       <footprint>EEE3088F_Footprints:18650_Holder_THT</footprint>
+      <fields>
+        <field name="Populate">DNP</field>
+      </fields>
       <libsource lib="Device" part="Battery" description="Multiple-cell battery"/>
+      <property name="Populate" value="DNP"/>
       <property name="Sheetname" value="Power"/>
       <property name="Sheetfile" value="power.kicad_sch"/>
       <sheetpath names="/Power/" tstamps="/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/"/>
