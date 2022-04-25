@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/davidyoung/Desktop/UCT/3rd Year 1st Semester (2022)/EEE3088F/EEE3088F-Team-9/PCB/main/main.kicad_sch</source>
-    <date>Friday, 08 April 2022 at 22:04:35</date>
+    <date>Monday, 11 April 2022 at 13:24:28</date>
     <tool>Eeschema (6.0.2-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -116,15 +116,13 @@
       <value>Conn_01x33_Female</value>
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x33_P2.54mm_Vertical</footprint>
       <fields>
-        <field name="Alt_LCSC">C12345 (example)</field>
-        <field name="LCSC">C1234 (example)</field>
         <field name="Populate">DNP</field>
         <field name="Price">0</field>
       </fields>
       <libsource lib="Connector" part="Conn_01x33_Female" description="Generic connector, single row, 01x33, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="LCSC" value="C1234 (example)"/>
+      <property name="LCSC" value=""/>
       <property name="Populate" value="DNP"/>
-      <property name="Alt_LCSC" value="C12345 (example)"/>
+      <property name="Alt_LCSC" value=""/>
       <property name="Price" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
@@ -135,15 +133,13 @@
       <value>Conn_01x33_Female</value>
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x33_P2.54mm_Vertical</footprint>
       <fields>
-        <field name="Alt_LCSC">C12345 (example)</field>
-        <field name="LCSC">C1234 (example)</field>
         <field name="Populate">DNP</field>
         <field name="Price">0</field>
       </fields>
       <libsource lib="Connector" part="Conn_01x33_Female" description="Generic connector, single row, 01x33, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="LCSC" value="C1234 (example)"/>
+      <property name="LCSC" value=""/>
       <property name="Populate" value="DNP"/>
-      <property name="Alt_LCSC" value="C12345 (example)"/>
+      <property name="Alt_LCSC" value=""/>
       <property name="Price" value="0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>

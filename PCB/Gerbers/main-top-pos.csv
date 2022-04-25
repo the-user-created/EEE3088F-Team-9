@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BT1,Battery,18650_Holder_THT,141.260000,-50.550000,0.000000,top
+J1,Conn_01x33_Male,PinHeader_1x33_P2.54mm_Vertical,185.540000,-68.000000,-90.000000,top
+J2,Conn_01x33_Female,PinSocket_1x33_P2.54mm_Vertical,185.540000,-78.160000,-90.000000,top
+J3,Conn_01x33_Female,PinSocket_1x33_P2.54mm_Vertical,185.540000,-118.800000,-90.000000,top
+J4,Conn_01x33_Male,PinHeader_1x33_P2.54mm_Vertical,185.540000,-128.960000,-90.000000,top
